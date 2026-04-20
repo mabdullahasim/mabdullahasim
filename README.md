@@ -22,10 +22,12 @@ AI Stock Market Twitter Bot – Python, Tweepy, YFinance, OpenAI summarization
 -----------------------------------------------------------------------------------------------
 Tech Stack
 
-Java | React | FastAPI | Python | TypeScript | SQLAlchemy | PostgreSQL | Docker | Git | AWS
+Java | React | FastAPI | Python | C++ | TypeScript | SQLAlchemy | PostgreSQL | Docker | Git | AWS 
 
 Contact
 
 Email: mabdullah@hotmail.com
 
 LinkedIn: www.linkedin.com/in/muhammad-abdullah-asim-0417972a9
+
+Website: https://muhammadasim.dev/
